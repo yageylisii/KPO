@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KPO\Pos.Entities\Pos.Entities.csproj" />
+    <ProjectReference Include="..\Pos.Entities\Pos.Entities.csproj" />
     <ProjectReference Include="..\Pos.UseCases\Pos.UseCases.csproj" />
   </ItemGroup>
 
